@@ -1,6 +1,6 @@
 
 ## **Description**
-Simple analysis of Moscow city buildings, Russia. Period is from 1600 to 2022 years (not all buildings of 2022 were in dataset, it influenced on 2022 numbers on graphics) \
+Simple analysis of Moscow city buildings, Russia. Period is from 1600 to 2022 years (not all buildings of 2022 were in dataset, it influenced on 2022 numbers on graphics)
 ## **Analysis steps:**
 1. Making list of all buildings URL addresses
 2. Getting valid data from every URL:
