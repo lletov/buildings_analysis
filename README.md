@@ -4,14 +4,6 @@ Simple analysis of Moscow city buildings, Russia. Period is from 1600 to 2022 ye
 ## **Analysis steps:**
 1. Making list of all buildings URL addresses
 2. Getting valid data from every URL:
-  - address
-  - year of build
-  - flats amount
-  - entrances amount
-  - height (floors amount)
-  - total living square 
-  - latitude
-  - longitude 
 3. Visualizing of dependences
 
 ## **Summary** 📉
