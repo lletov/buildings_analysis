@@ -6,7 +6,7 @@ Trends and buildings construction dynamic of Moscow, St. Petersburg and Kazan si
 1. **Data parsing**\
 The following values were taken for every city building from the sourse: address, year of building's construction, flats number, enterances number, height of building in floors, overall building living square, coordinates of building i. e. latitude and longitude. Theese data were compiled in csv file. Samples of csv files are in *data* folder of this repositoty.
 2. **Statistic analysis**\
-Visualization of trends and buildings construction dynamic, based on the parsed data, some new columns will be added in CSV and save after. Some pictures are in *pictures* folder, all picures will be added soon.
+Visualization of trends and buildings construction dynamic, based on the parsed data, some new columns were added in CSV and saved after. Some pictures are in *pictures* folder, all picures will be added soon.
 3. **Geo analysis**\
 Based on the parsed data, heatmaps by year of construction and by buildings height were created for every city. The html versions of them are in *heatmaps* folder of this repository. Folium library were used to heatmap creating.
 4. **Summary statistic**\
