@@ -4,7 +4,7 @@ Trends and buildings construction dynamic of Moscow, St. Petersburg and Kazan si
 ![pipeline](https://github.com/lletov/buildings_analysis/blob/main/pictures/pipeline.png)
 
 1. **Data parsing**\
-The following values were taken for every city building from the sourse: address, year of building's construction, flats number, enterances number, height of building in floors, overall building living square, coordinates of building i. e. latitude and longitude. Theese data were compiled in csv file. Sample of csv files are in *data* folder of this repositoty.
+The following values were taken for every city building from the sourse: address, year of building's construction, flats number, enterances number, height of building in floors, overall building living square, coordinates of building i. e. latitude and longitude. Theese data were compiled in csv file. Samples of csv files are in *data* folder of this repositoty.
 2. **Statistic analysis**\
 Visualization of trends and buildings construction dynamic, based on the parsed data, some new columns will be added in CSV and save after. Some pictures are in *pictures* folder, all picures will be added soon.
 3. **Geo analysis**\
