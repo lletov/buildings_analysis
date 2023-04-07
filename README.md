@@ -26,8 +26,10 @@ CSV file structure after data parsing:
 Different statistic graphs for every city were received, summary mutual dependences graphs were received as well. They can be used to look after tendences and buildings construction dynamic, compare them with historical periods to predict the future tendences.
 
 ## **Progress**
+#### Realized:
 - [x] few cities
 - [x] base analysis
+#### Future plans:
 - [ ] add more cities
 - [ ] add more dependences
 
